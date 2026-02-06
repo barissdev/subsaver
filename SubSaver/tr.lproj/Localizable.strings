@@ -1,0 +1,197 @@
+/* Settings */
+"settings.title" = "Ayarlar";
+"settings.subtitle" = "SubSaver deneyimini sana göre özelleştir.";
+"settings.currency.title" = "Varsayılan Para Birimi";
+"settings.currency.description" = "Yeni abonelikler için varsayılan birim";
+"settings.currency.help" = "Abonelik eklerken para birimi alanı otomatik bu değerle doldurulur. Dashboard ve istatistiklerdeki toplamlar bu birime göre gösterilir.";
+"settings.theme.title" = "Tema";
+"settings.theme.system" = "Sistem";
+"settings.theme.light" = "Açık";
+"settings.theme.dark" = "Koyu";
+"settings.notifications.title" = "Bildirimleri etkinleştir";
+"settings.notifications.days" = "Yenilemeden kaç gün önce hatırlatılsın?";
+"settings.notifications.daysBefore" = "%d gün önce";
+"settings.language.title" = "Dil";
+"settings.language.description" = "Uygulama dilini değiştir";
+"settings.language.selection" = "Dil Seçimi";
+"settings.language.selectPrompt" = "Uygulama dilini seçin";
+"settings.language.system" = "Sistem dili (önerilen)";
+"settings.language.systemDescription" = "Sistem ayarlarınızı kullanır";
+"settings.language.turkish" = "Türkçe";
+"settings.language.english" = "English";
+"settings.rateUs.title" = "Bizi değerlendir";
+"settings.rateUs.description" = "Geri bildirimin SubSaver'ı geliştirmemize yardımcı olur.";
+"settings.rateUs.button" = "Puan ver";
+
+/* Home */
+"home.subtitle" = "Abonelik asistanın";
+"home.addSubscription" = "Abonelik Ekle";
+"home.upcoming.title" = "Yaklaşan yenilemeler";
+"home.subscriptions.title" = "Abonelikler";
+"home.empty.title" = "Hiç abonelik eklenmemiş.";
+"home.empty.description" = "İlk aboneliğini ekleyerek başla.";
+"home.totalMonthly" = "Bu ay tahmini harcama";
+"home.totalYearly" = "Yıllık toplam";
+"home.remind" = "Hatırlat";
+"home.activeSubscriptions" = "Aktif abonelik";
+"home.cancelCandidates" = "İptal adayları";
+"home.subscriptionsActive" = "Aboneliklerin aktif. Yenilemeleri kaçırma.";
+"home.plannedSpending" = "Planlı harcama";
+"home.upcoming.today" = "Bugün";
+"home.upcoming.missed" = "Kaçırılmış";
+"home.upcoming.within7days" = "7 gün içinde";
+"home.delete" = "Sil";
+
+/* Common */
+"common.cancel" = "İptal";
+"common.save" = "Kaydet";
+"common.delete" = "Sil";
+"common.ok" = "Tamam";
+"common.continue" = "Devam";
+"common.start" = "Başlayalım";
+"common.skip" = "Geç";
+"common.name" = "Ad";
+
+/* Billing Cycles */
+"cycle.weekly" = "Haftalık";
+"cycle.monthly" = "Aylık";
+"cycle.yearly" = "Yıllık";
+"cycle.title" = "Döngü";
+
+/* Status */
+"status.active" = "Aktif";
+"status.cancelled" = "Kapalı";
+"status.review" = "İncele";
+
+// Pro View
+"pro.title" = "Aboneliklerini bir üst seviyeye taşı";
+"pro.subtitle" = "Pro ile daha detaylı istatistikler, akıllı uyarılar ve güvenlik özellikleri seninle.";
+"pro.hero.title" = "SubSaver Pro";
+"pro.hero.description" = "Daha az unutulan ödemeler, daha fazla kontrol ve daha akıllı özetler.";
+"pro.hero.monthly" = "/ aylık";
+"pro.hero.soon" = "Yakında";
+"pro.hero.faceidNote" = "Face ID ile kilitleme ve Pro rozetleri yakında aktif olacak.";
+"pro.features.title" = "Pro ile neler geliyor?";
+"pro.features.stats.title" = "Detaylı istatistik";
+"pro.features.stats.subtitle" = "Yıllık / aylık kırılımlar, kategori bazlı analizler.";
+"pro.features.alerts.title" = "Akıllı uyarılar";
+"pro.features.alerts.subtitle" = "Sadece önemli yenilemeler için bildirim al.";
+"pro.features.faceid.title" = "Face ID kilidi";
+"pro.features.faceid.subtitle" = "Uygulamayı ve hassas ekranları koru.";
+"pro.features.badges.title" = "Pro rozetleri";
+"pro.features.badges.subtitle" = "Uygulama içinde premium görünüm ve temalar.";
+"pro.compare.title" = "Ücretsiz vs Pro";
+"pro.compare.list" = "Temel abonelik listesi";
+"pro.compare.reminders" = "Yenileme hatırlatmaları";
+"pro.compare.currency" = "Çoklu para birimi ve kur";
+"pro.compare.advancedStats" = "Gelişmiş istatistik ve filtreler";
+"pro.compare.faceid" = "Face ID kilidi";
+"pro.compare.themes" = "Özel temalar ve rozetler";
+"pro.compare.free" = "Ücretsiz";
+"pro.compare.pro" = "Pro";
+"pro.faq.title" = "Sık sorulanlar";
+"pro.faq.soon.q" = "Pro hemen aktif mi olacak?";
+"pro.faq.soon.a" = "Ödeme altyapısı eklendiğinde, satın alma sonrası tüm Pro özellikleri anında açılacak.";
+"pro.faq.data.q" = "Verilerim kaybolur mu?";
+"pro.faq.data.a" = "Hayır. Ücretsiz sürümden Pro’ya geçerken verilerin uygulama içinde kalır.";
+"pro.faq.cancel.q" = "İstediğim zaman iptal edebilir miyim?";
+"pro.faq.cancel.a" = "Evet, App Store aboneliğinden dilediğin zaman iptal edebilirsin.";
+"pro.cta.notify" = "Pro çıktığında haberdar ol";
+"pro.cta.continue" = "Şimdilik ücretsiz devam et";
+/* Add Subscription */
+"addSubscription.title" = "Yeni Abonelik";
+"addSubscription.subtitle" = "Aboneliği ekle, yenileme tarihlerini ve harcamalarını takip et.";
+"addSubscription.serviceSection" = "ABONELİK HİZMETİ";
+"addSubscription.service.selected" = "Seçilen hizmet";
+"addSubscription.service.notSelected" = "Henüz bir hizmet seçilmedi.";
+"addSubscription.service.select" = "Bir hizmet seçin";
+"addSubscription.details" = "Detaylar";
+"addSubscription.namePlaceholder" = "Abonelik adı (ör. Netflix)";
+"addSubscription.price" = "Fiyat";
+"addSubscription.currency" = "Para Birimi";
+"addSubscription.renewalDate" = "Yenileme Tarihi";
+"addSubscription.notifications.title" = "Bildirimler";
+"addSubscription.notifications.enable" = "Bildirimleri etkinleştir";
+"addSubscription.notifications.daysBefore" = "Yenilemeden kaç gün önce?";
+"addSubscription.notifications.daysBeforeValue" = "%d gün önce";
+"addSubscription.notifications.time" = "Hatırlatma saati";
+"addSubscription.validation.error" = "Lütfen isim ve geçerli bir fiyat gir.";
+
+/* Notifications */
+"notifications.title" = "Bildirimler";
+"notifications.empty" = "Bildirim açık abonelik yok";
+"notifications.emptyDescription" = "Aboneliklerinin bildirimlerini açmak için abonelik detayından bildirim ayarlarını düzenle.";
+"notifications.close" = "Kapat";
+"notifications.enabledSubscriptions" = "Bildirim Açık Abonelikler";
+"notifications.activeCount" = "%d abonelik için bildirim aktif";
+"notifications.defaultReminder" = "Varsayılan hatırlatma";
+"notifications.daysBeforeShort" = "%d gün önce";
+"notifications.reminder" = "Hatırlatma";
+"notifications.date" = "Bildirim tarihi";
+"notifications.subscriptionRenewal" = "Abonelik yenilemesi yaklaşıyor";
+"notifications.renewsIn" = "%@ %d gün sonra yenilenecek. Detaylar için uygulamayı kontrol et.";
+
+/* Onboarding */
+"onboarding.skip" = "Geç";
+"onboarding.continue" = "Devam";
+"onboarding.start" = "Başlayalım";
+"onboarding.page1.title" = "Aboneliklerini takip et";
+"onboarding.page1.subtitle" = "Yenileme tarihlerini takip et, israfı gör ve para biriktir.";
+"onboarding.page2.title" = "Bildirimlerle hatırlat";
+"onboarding.page2.subtitle" = "Yenilemeden önce bildirim al, hiçbir şeyi kaçırma.";
+
+/* Subscription Detail */
+"subscriptionDetail.costSummary" = "Maliyet Özeti";
+"subscriptionDetail.monthlyEstimate" = "Aylık tahmini";
+"subscriptionDetail.inDefaultCurrency" = "Seçtiğin varsayılan para biriminde";
+"subscriptionDetail.yearlyTotal" = "Yıllık toplam";
+"subscriptionDetail.subscriptionInfo" = "Abonelik bilgileri";
+"subscriptionDetail.price" = "Fiyat";
+"subscriptionDetail.currency" = "Para birimi";
+"subscriptionDetail.paymentCycle" = "Ödeme döngüsü";
+"subscriptionDetail.renewalDate" = "Yenileme tarihi";
+"subscriptionDetail.notifications" = "Bildirimler";
+"subscriptionDetail.sendNotification" = "Bu abonelik için bildirim gönder";
+"subscriptionDetail.daysBefore" = "Yenilemeden kaç gün önce?";
+"subscriptionDetail.daysBeforeValue" = "%d gün önce";
+"subscriptionDetail.status" = "Durum";
+"subscriptionDetail.active" = "Aktif";
+"subscriptionDetail.review" = "İncele";
+"subscriptionDetail.cancelled" = "Kapalı";
+"subscriptionDetail.statusNote" = "Bu tercih, istatistiklerde ve tasarruf hesaplarında kullanılacaktır.";
+
+/* Statistics */
+"statistics.title" = "İstatistik";
+"statistics.summary" = "Özet";
+"statistics.monthlyTotal" = "Aylık Toplam";
+"statistics.yearlyTotal" = "Yıllık Toplam";
+"statistics.potentialSavings" = "Potansiyel Tasarruf (aylık)";
+"statistics.potentialYearly" = "Kapalı / iptal adaylarından yıllık potansiyel: ";
+"statistics.thisYear" = "Bu Yıl";
+"statistics.plannedYearly" = "Planlanan yıllık harcama";
+"statistics.remainingPayment" = "Kalan tahmini ödeme";
+
+/* Root Tab View */
+"tab.subscriptions" = "Abonelikler";
+"tab.statistics" = "İstatistik";
+"tab.settings" = "Ayarlar";
+
+/* Service Picker */
+"servicePicker.title" = "Hizmet Seçin";
+"servicePicker.searchPrompt" = "Bir hizmet arayın";
+"servicePicker.customService" = "ÖZEL HİZMET";
+"servicePicker.custom" = "Özel";
+"servicePicker.categories" = "KATEGORİLER";
+"servicePicker.trademark.youtube" = "Google LLC'nin tescilli markasıdır. SubSaver ile bağlantılı değildir.";
+"servicePicker.trademark.amazon" = "Amazon.com, Inc.'in tescilli markasıdır. SubSaver ile bağlantılı değildir.";
+"servicePicker.trademark.max" = "WarnerMedia Direct, LLC'nin tescilli markasıdır. SubSaver ile bağlantılı değildir.";
+"servicePicker.trademark.default" = "Tescilli marka. SubSaver ile bağlantılı değildir.";
+
+/* Categories */
+"category.video" = "Video Akışı";
+"category.music" = "Müzik";
+"category.gaming" = "Oyun";
+"category.cloud" = "Bulut / Üretkenlik";
+"category.ai" = "AI / Araçlar";
+"category.other" = "Diğer";
+

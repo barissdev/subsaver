@@ -1,0 +1,197 @@
+/* Settings */
+"settings.title" = "Settings";
+"settings.subtitle" = "Customize your SubSaver experience.";
+"settings.currency.title" = "Default Currency";
+"settings.currency.description" = "Default unit for new subscriptions";
+"settings.currency.help" = "The currency field will be automatically filled with this value when adding subscriptions. Totals in dashboard and statistics will be shown in this currency.";
+"settings.theme.title" = "Theme";
+"settings.theme.system" = "System";
+"settings.theme.light" = "Light";
+"settings.theme.dark" = "Dark";
+"settings.notifications.title" = "Enable notifications";
+"settings.notifications.days" = "How many days before renewal to remind?";
+"settings.notifications.daysBefore" = "%d days before";
+"settings.language.title" = "Language";
+"settings.language.description" = "Change app language";
+"settings.language.selection" = "Language Selection";
+"settings.language.selectPrompt" = "Select app language";
+"settings.language.system" = "System language (recommended)";
+"settings.language.systemDescription" = "Uses your system settings";
+"settings.language.turkish" = "Türkçe";
+"settings.language.english" = "English";
+"settings.rateUs.title" = "Rate Us";
+"settings.rateUs.description" = "Your feedback helps us improve SubSaver.";
+"settings.rateUs.button" = "Rate";
+
+/* Home */
+"home.subtitle" = "Your subscription assistant";
+"home.addSubscription" = "Add Subscription";
+"home.upcoming.title" = "Upcoming renewals";
+"home.subscriptions.title" = "Subscriptions";
+"home.empty.title" = "No subscriptions added.";
+"home.empty.description" = "Start by adding your first subscription.";
+"home.totalMonthly" = "Estimated spending this month";
+"home.totalYearly" = "Yearly total";
+"home.remind" = "Remind";
+"home.activeSubscriptions" = "Active subscriptions";
+"home.cancelCandidates" = "Cancel candidates";
+"home.subscriptionsActive" = "Your subscriptions are active. Don't miss renewals.";
+"home.plannedSpending" = "Planned spending";
+"home.upcoming.today" = "Today";
+"home.upcoming.missed" = "Missed";
+"home.upcoming.within7days" = "Within 7 days";
+"home.delete" = "Delete";
+
+/* Common */
+"common.cancel" = "Cancel";
+"common.save" = "Save";
+"common.delete" = "Delete";
+"common.ok" = "OK";
+"common.continue" = "Continue";
+"common.start" = "Let's Start";
+"common.skip" = "Skip";
+"common.name" = "Name";
+
+/* Billing Cycles */
+"cycle.weekly" = "Weekly";
+"cycle.monthly" = "Monthly";
+"cycle.yearly" = "Yearly";
+"cycle.title" = "Billing Cycle";
+
+/* Status */
+"status.active" = "Active";
+"status.cancelled" = "Cancelled";
+"status.review" = "Review";
+
+// Pro View
+"pro.title" = "Take your subscriptions to the next level";
+"pro.subtitle" = "With Pro, detailed statistics, smart alerts, and security features are with you.";
+"pro.hero.title" = "SubSaver Pro";
+"pro.hero.description" = "Fewer forgotten payments, more control, and smarter summaries.";
+"pro.hero.monthly" = "/ monthly";
+"pro.hero.soon" = "Soon";
+"pro.hero.faceidNote" = "Face ID locking and Pro badges will be active soon.";
+"pro.features.title" = "What's coming with Pro?";
+"pro.features.stats.title" = "Detailed statistics";
+"pro.features.stats.subtitle" = "Yearly / monthly breakdowns, category-based analysis.";
+"pro.features.alerts.title" = "Smart alerts";
+"pro.features.alerts.subtitle" = "Get notifications only for important renewals.";
+"pro.features.faceid.title" = "Face ID lock";
+"pro.features.faceid.subtitle" = "Protect the app and sensitive screens.";
+"pro.features.badges.title" = "Pro badges";
+"pro.features.badges.subtitle" = "Premium look and themes within the app.";
+"pro.compare.title" = "Free vs Pro";
+"pro.compare.list" = "Basic subscription list";
+"pro.compare.reminders" = "Renewal reminders";
+"pro.compare.currency" = "Multi-currency and exchange rates";
+"pro.compare.advancedStats" = "Advanced statistics and filters";
+"pro.compare.faceid" = "Face ID lock";
+"pro.compare.themes" = "Custom themes and badges";
+"pro.compare.free" = "Free";
+"pro.compare.pro" = "Pro";
+"pro.faq.title" = "FAQ";
+"pro.faq.soon.q" = "Will Pro be active immediately?";
+"pro.faq.soon.a" = "When the payment infrastructure is added, all Pro features will open instantly after purchase.";
+"pro.faq.data.q" = "Will my data be lost?";
+"pro.faq.data.a" = "No. Your data stays in the app when upgrading from Free to Pro.";
+"pro.faq.cancel.q" = "Can I cancel at any time?";
+"pro.faq.cancel.a" = "Yes, you can cancel at any time from your App Store subscriptions.";
+"pro.cta.notify" = "Be notified when Pro is released";
+"pro.cta.continue" = "Continue for free for now";
+/* Add Subscription */
+"addSubscription.title" = "New Subscription";
+"addSubscription.subtitle" = "Add subscription, track renewal dates and spending.";
+"addSubscription.serviceSection" = "SUBSCRIPTION SERVICE";
+"addSubscription.service.selected" = "Selected service";
+"addSubscription.service.notSelected" = "No service selected yet.";
+"addSubscription.service.select" = "Select a service";
+"addSubscription.details" = "Details";
+"addSubscription.namePlaceholder" = "Subscription name (e.g. Netflix)";
+"addSubscription.price" = "Price";
+"addSubscription.currency" = "Currency";
+"addSubscription.renewalDate" = "Renewal Date";
+"addSubscription.notifications.title" = "Notifications";
+"addSubscription.notifications.enable" = "Enable notifications";
+"addSubscription.notifications.daysBefore" = "How many days before renewal?";
+"addSubscription.notifications.daysBeforeValue" = "%d days before";
+"addSubscription.notifications.time" = "Reminder time";
+"addSubscription.validation.error" = "Please enter a name and valid price.";
+
+/* Notifications */
+"notifications.title" = "Notifications";
+"notifications.empty" = "No subscriptions with active notifications found.";
+"notifications.emptyDescription" = "To enable notifications for your subscriptions, edit notification settings from subscription details.";
+"notifications.close" = "Close";
+"notifications.enabledSubscriptions" = "Notification Enabled Subscriptions";
+"notifications.activeCount" = "%d subscriptions have notifications enabled";
+"notifications.defaultReminder" = "Default reminder";
+"notifications.daysBeforeShort" = "%d days before";
+"notifications.reminder" = "Reminder";
+"notifications.date" = "Notification date";
+"notifications.subscriptionRenewal" = "Subscription renewal coming up";
+"notifications.renewsIn" = "%@ renews in %d days. Check the app for details.";
+
+/* Onboarding */
+"onboarding.skip" = "Skip";
+"onboarding.continue" = "Continue";
+"onboarding.start" = "Let's Start";
+"onboarding.page1.title" = "Track your subscriptions";
+"onboarding.page1.subtitle" = "Track renewal dates, see waste and save money.";
+"onboarding.page2.title" = "Remind with notifications";
+"onboarding.page2.subtitle" = "Get notified before renewal, don't miss anything.";
+
+/* Subscription Detail */
+"subscriptionDetail.costSummary" = "Cost Summary";
+"subscriptionDetail.monthlyEstimate" = "Monthly estimate";
+"subscriptionDetail.inDefaultCurrency" = "In your selected default currency";
+"subscriptionDetail.yearlyTotal" = "Yearly total";
+"subscriptionDetail.subscriptionInfo" = "Subscription info";
+"subscriptionDetail.price" = "Price";
+"subscriptionDetail.currency" = "Currency";
+"subscriptionDetail.paymentCycle" = "Payment cycle";
+"subscriptionDetail.renewalDate" = "Renewal date";
+"subscriptionDetail.notifications" = "Notifications";
+"subscriptionDetail.sendNotification" = "Send notification for this subscription";
+"subscriptionDetail.daysBefore" = "How many days before renewal?";
+"subscriptionDetail.daysBeforeValue" = "%d days before";
+"subscriptionDetail.status" = "Status";
+"subscriptionDetail.active" = "Active";
+"subscriptionDetail.review" = "Review";
+"subscriptionDetail.cancelled" = "Cancelled";
+"subscriptionDetail.statusNote" = "This preference will be used in statistics and savings calculations.";
+
+/* Statistics */
+"statistics.title" = "Statistics";
+"statistics.summary" = "Summary";
+"statistics.monthlyTotal" = "Monthly Total";
+"statistics.yearlyTotal" = "Yearly Total";
+"statistics.potentialSavings" = "Potential Savings (monthly)";
+"statistics.potentialYearly" = "Annual potential from closed/cancel candidates: ";
+"statistics.thisYear" = "This Year";
+"statistics.plannedYearly" = "Planned yearly spending";
+"statistics.remainingPayment" = "Remaining estimated payment";
+
+/* Root Tab View */
+"tab.subscriptions" = "Subscriptions";
+"tab.statistics" = "Statistics";
+"tab.settings" = "Settings";
+
+/* Service Picker */
+"servicePicker.title" = "Select Service";
+"servicePicker.searchPrompt" = "Search for a service";
+"servicePicker.customService" = "CUSTOM SERVICE";
+"servicePicker.custom" = "Custom";
+"servicePicker.categories" = "CATEGORIES";
+"servicePicker.trademark.youtube" = "Registered trademark of Google LLC. Not affiliated with SubSaver.";
+"servicePicker.trademark.amazon" = "Registered trademark of Amazon.com, Inc. Not affiliated with SubSaver.";
+"servicePicker.trademark.max" = "Registered trademark of WarnerMedia Direct, LLC. Not affiliated with SubSaver.";
+"servicePicker.trademark.default" = "Registered trademark. Not affiliated with SubSaver.";
+
+/* Categories */
+"category.video" = "Video Streaming";
+"category.music" = "Music";
+"category.gaming" = "Gaming";
+"category.cloud" = "Cloud / Productivity";
+"category.ai" = "AI / Tools";
+"category.other" = "Other";
+
